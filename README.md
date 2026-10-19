@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 <h1 align="center">Data Warehouse and Analytics Project</h1>
 
 Welcome to my **Data Warehouse and Analytics Project** repository. This project demonstrates my comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
----
+
 
 ##  Data Architecture
 
@@ -15,7 +14,7 @@ The data architecture for this project follows **Medallion Architecture** with B
 | **Silver** | Includes data cleansing, standardization, and normalization to prepare data for analysis. |
 | **Gold** | Houses business-ready data modeled into a star schema required for reporting and analytics. |
 
----
+
 
 ##  Project Overview
 
@@ -26,7 +25,7 @@ This project involves:
 - **Data Modeling**: Developing fact and dimension tables optimized for analytical queries
 - **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights
 
----
+
 
 ##  Skills Showcased
 
@@ -39,7 +38,7 @@ This repository is my introduction to Data Engineering:
 - Data Modeling
 - Data Analytics
 
----
+
 
 ##  Tools & Resources
 
@@ -115,18 +114,11 @@ data-warehouse-project/
 
 ---
 
-## Stay Connected
-
-Let's stay in touch! Feel free to connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/derrick-nyongesa/)
-
----
-
 ## License
 
 This project is licensed under the **MIT License**. You are free to use, modify, and share this project with proper attribution.
-=======
+
 # data_warehouse_project
 In this project we develop an SQL Data Warehouse from scratch using the medallion architecture.
->>>>>>> eef2469a4f0cc6d8834fa483704e75b23be59690
+# sql_data_warehouse_project
+This project demonstrates my comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
