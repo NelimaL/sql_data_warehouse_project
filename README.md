@@ -5,7 +5,7 @@ Welcome to my **Data Warehouse and Analytics Project** repository. This project 
 
 ---
 
-## 🏗️ Data Architecture
+##  Data Architecture
 
 The data architecture for this project follows **Medallion Architecture** with Bronze, Silver, and Gold layers:
 
@@ -17,7 +17,7 @@ The data architecture for this project follows **Medallion Architecture** with B
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 This project involves:
 
@@ -28,7 +28,7 @@ This project involves:
 
 ---
 
-## 🎯 Skills Showcased
+##  Skills Showcased
 
 This repository is my introduction to Data Engineering:
 
@@ -41,7 +41,7 @@ This repository is my introduction to Data Engineering:
 
 ---
 
-## 🛠️ Tools & Resources
+##  Tools & Resources
 
 - **Datasets**: CSV files for the project dataset
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)**: Lightweight server for hosting your SQL database
@@ -52,7 +52,7 @@ This repository is my introduction to Data Engineering:
 
 ---
 
-## 🚀 Project Requirements
+##  Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -77,7 +77,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## 📌 Project Management
+##  Project Management
 
 The project was managed via notion, here is the project task tracker and breakdown;
 
@@ -85,7 +85,7 @@ The project was managed via notion, here is the project task tracker and breakdo
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 data-warehouse-project/
@@ -115,7 +115,7 @@ data-warehouse-project/
 
 ---
 
-## ☕ Stay Connected
+## Stay Connected
 
 Let's stay in touch! Feel free to connect with me:
 
@@ -123,7 +123,7 @@ Let's stay in touch! Feel free to connect with me:
 
 ---
 
-## 🛡️ License
+## License
 
 This project is licensed under the **MIT License**. You are free to use, modify, and share this project with proper attribution.
 =======
