@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Data Warehouse and Analytics Project</h1>
 
 Welcome to my **Data Warehouse and Analytics Project** repository. This project demonstrates my comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
@@ -125,3 +126,7 @@ Let's stay in touch! Feel free to connect with me:
 ## 🛡️ License
 
 This project is licensed under the **MIT License**. You are free to use, modify, and share this project with proper attribution.
+=======
+# data_warehouse_project
+In this project we develop an SQL Data Warehouse from scratch using the medallion architecture.
+>>>>>>> eef2469a4f0cc6d8834fa483704e75b23be59690
